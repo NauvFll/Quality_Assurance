@@ -1,0 +1,17 @@
+{
+  "name": "eduwork",
+  "version": "1.0.0",
+  "description": "Eduwork Prettier",
+  "main": "index.js",
+  "author": "mYogaP",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.2.0",
+    "prettier": "^2.8.1"
+  },
+  
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress ru"
+  }
+}

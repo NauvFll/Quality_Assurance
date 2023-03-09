@@ -1,0 +1,13 @@
+{
+  "name": "demoMidtrans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nauval",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
